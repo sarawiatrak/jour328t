@@ -1,0 +1,31 @@
+genres: 4,2,6,28,7,4,2,2,2,3,6,11,2,21
+'canadian_contemporary_rb'
+'canadian_hip_hop'
+'canadian_pop'
+'dance_pop'
+'dfw_rap'
+'electropop'
+'emo_rap'
+'folkpop'
+'latin'
+'melodic_rap'
+'modern_rock'
+'pop'
+'rap'
+'other'
+years: 1,1,1,1,3,4,6,13,16,12,20,16,3,3
+1975
+1995
+2004
+2008
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+
